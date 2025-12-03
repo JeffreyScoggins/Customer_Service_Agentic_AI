@@ -1,0 +1,11 @@
+langchain
+langchain-google-genai
+langgraph
+google-generativeai
+python-dotenv
+streamlit
+pydantic==1.*
+sendgrid
+passlib[bcrypt]
+pytest
+vonage
